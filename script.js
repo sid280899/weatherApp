@@ -1,9 +1,3 @@
-// let firstName = "Siddhesh";
-// let lastName = "Neharkar";
-// // let name = "Full Name : " + firstName + " " + lastName;
-// let name = `Full Name : ${firstName} ${lastName}`;
-// console.log(name);
-
 const temperatureField = document.querySelector(".temp");
 const cityField = document.querySelector(".time_location p");
 const dateField = document.querySelector(".time_location span");
